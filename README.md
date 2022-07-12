@@ -4,6 +4,8 @@
 
 ## Features
 
+- TypeScript
+- React
 - Compilation with Vite
 - Tests with Vitest
 - Storybook
